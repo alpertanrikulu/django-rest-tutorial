@@ -1,0 +1,21 @@
+# Genel
+*.log
+*.pyc
+__pycache__/
+
+# Virtual env
+venv/
+.env
+
+# Django
+db.sqlite3
+/uploads/
+
+# VSCode, IDE
+.vscode/
+.idea/
+
+
+# MacOS, Windows
+.DS_Store
+Thumbs.db
